@@ -3,7 +3,7 @@
 }
 
 .contenedor {
-    background-image: url(../Proyecto_1/imgdp/pastelyuca.cebolla.jpg);
+    background-image: url(../donpedro/imgdp/pastelyuca.cebolla.jpg);
     background-repeat: no-repeat;
     background-size: 600px;
     height: 600px;
@@ -924,7 +924,7 @@ header {
 
 
     .contenedor {
-        background-image: url(../Proyecto_1/imgdp/pastelyuca.cebolla.jpg);
+        background-image: url(../donpedro/imgdp/pastelyuca.cebolla.jpg);
         background-size: 650px;
         height: 400px;
         width: 100%;
@@ -1375,7 +1375,7 @@ header {
 
     #ubicacion {
         height: 550px;
-        background-image: url(../Proyecto_1/imgdp/celular.jpg);
+        background-image: url(../donpedro/imgdp/celular.jpg);
         background-size: 550px;
         background-attachment: fixed;
         margin: 0;
