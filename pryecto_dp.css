@@ -1,0 +1,2037 @@
+*{
+    font-family: 'Mouse Memoirs', sans-serif;
+}
+
+.contenedor {
+    background-image: url(../Proyecto_1/imgdp/pastelyuca.cebolla.jpg);
+    background-repeat: no-repeat;
+    background-size: 600px;
+    height: 600px;
+    width: 100%;
+    background-size: cover;
+    background-attachment: fixed;
+    display: inline-block;
+    position: relative;
+    left: 0;
+}
+
+.titulo {
+    background: transparent;
+    height: 300px;
+    width: 450px;
+    text-align: left;
+    position: relative;
+    left: 5%;
+    top: 135px;
+    color: rgba(173, 2, 11, 0.726);
+}
+.btn-wsp {
+    position: fixed;
+    width: 55px;
+    height: 55px;
+    line-height: 55px;
+    bottom: 30px;
+    right: 50px;
+    text-align: center;
+}
+.btn-wsp img {
+    height: 50px;
+    width: 50px;
+}
+
+.btn-wsp1 img {
+    height: 65px;
+    width: 65px;
+}
+
+
+h1 {
+    font-family: 'Dancing Script', cursive;
+    font-size: 60px;
+    margin: 0px;
+}
+
+.dp {
+    font-size: 85px;
+    font-family: 'Dancing Script', cursive;
+}
+
+.frase {
+    font-size: 25px;
+    margin: 5px;
+}
+.amor {
+    font-family: 'Dancing Script', cursive;
+    font-size: 25px;
+}
+
+header {
+    height: 100%;
+}
+
+.nav__responsive-ul {
+    display: none;
+}
+
+.nav {
+    background-color: rgba(173, 2, 11, 0.726);
+}
+
+.nav__li {
+    display: inline-block;
+    padding: 12px;
+    color: #fff;
+    
+}
+
+.nav__li:hover > a {
+    
+    color:  #ccc
+}
+
+.nav__li:hover {
+    
+    color:  #ccc
+}
+
+.nav__li a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 20px;
+    letter-spacing: 1px;
+}
+
+.nav__li i {
+  
+    box-sizing: border-box;
+    text-align: right;
+    margin-right: 5px;
+}
+
+.nav__responsive-button-container {
+    position: absolute;
+    width: 100%;
+    font-size: 25px;
+    background-color: rgba(82, 3, 7, 0.884);
+    margin-top: -64px;
+    z-index: 100;
+
+}
+.nav__responsive-button {
+    padding: 6px 20px;
+    text-align: right;
+    width: 100%;
+}
+
+.nav__ul {
+    margin: 0;
+}
+
+
+
+
+
+/*seccion 2*/
+
+#seccion-2 {
+    height: 2160px;
+    width: 100%;
+    background: rgba(173, 2, 11, 0.726);
+}
+
+.logo {
+    height: 60px;
+    width: 50px;
+    margin-top: 8px;
+    position: relative;
+    left: 47%;  
+}
+
+.h2-menu {
+    width: 100%;
+    height: 45px;
+    background: transparent;
+    text-align: center;
+    position: relative;
+    top: 5px;
+    font-family: 'Satisfy', cursive;
+    font-size: 60px;
+    margin: 8px; 
+    color: #fff;
+}
+
+.h2-pab {
+    width: 100%;
+    height: 45px;
+    background: transparent;
+    text-align: center; 
+    letter-spacing: 2.5px;
+    font-size: 45px;
+    margin-top: 25px;
+    margin-bottom: 10px;
+    color: #fff;
+    text-indent: 30px;
+}
+.a-pasteles {
+    text-decoration: none;
+    color: #fff;
+}
+.a-arepas {
+    text-decoration: none;
+    color: #fff;
+}
+.a-bebidas {
+    text-decoration: none;
+    color: #fff;
+}
+
+#h2-pasteles {
+    width: 30%;
+    height: 45px;
+    background: transparent;
+    text-align: center;
+    position: relative;
+    top: 35px;
+    left: 35%;  
+    letter-spacing: 2.5px;
+    font-size: 45px;
+    margin-top: 0;
+    margin-bottom: 10px;
+    color: #fff;
+}
+
+.yuca a > img {
+    height: 150px;
+    width: 150px;
+    border-radius: 30%;
+    padding: 10px;
+}
+
+.yuca {
+    height: 250px;
+    width: 200px;
+   background: rgba(173, 2, 11, 0.726);
+   text-align: center;
+   position: relative;
+   left: 13%;
+   top: 75px;
+   border-radius: 20%;
+   color: #fff;
+   font-size: 27px;
+   letter-spacing: 2px;
+}
+.yuca a {
+    text-decoration: none;
+    color: #fff;
+}
+.yuca:hover {
+    background: rgba(120, 2, 11, 0.726);
+}
+
+.pollo a > img {
+    height: 150px;
+    width: 150px;
+    border-radius: 30%;
+    padding: 10px;
+}
+
+.pollo {
+    height: 250px;
+    width: 200px;
+   background: rgba(173, 2, 11, 0.726);
+   text-align: center;
+   position: relative;
+   left: 42%;
+   bottom: 175px;
+   border-radius: 20%;
+   color: #fff;
+   font-size: 27px;
+   letter-spacing: 2px;
+}
+.pollo a {
+    text-decoration: none;
+    color: #fff;
+}
+.pollo:hover {
+    background: rgba(120, 2, 11, 0.726);
+}
+
+.arroz-carne a > img {
+    height: 150px;
+    width: 150px;
+    border-radius: 30%;
+    padding: 10px;
+}
+
+.arroz-carne {
+    height: 250px;
+    width: 200px;
+   background:rgba(173, 2, 11, 0.726);
+   text-align: center;
+   position: relative;
+   left: 70%;
+   bottom: 425px;
+   border-radius: 20%;
+   color: #fff;
+   font-size: 27px;
+   letter-spacing: 2px;
+}
+.arroz-carne a {
+    text-decoration: none;
+    color: #fff;
+}
+.arroz-carne:hover {
+    background: rgba(120, 2, 11, 0.726);
+}
+
+.arroz-carne-huevo a > img {
+    height: 150px;
+    width: 150px;
+    border-radius: 30%;
+    padding: 10px;
+}
+
+.arroz-carne-huevo {
+    height: 250px;
+    width: 210px;
+   background: rgba(173, 2, 11, 0.726);
+   text-align: center;
+   position: relative;
+   left: 5%;
+   bottom: 350px;
+   border-radius: 20%;
+   color: #fff;
+   font-size: 22px;
+   letter-spacing: 2px;
+}
+.arroz-carne-huevo a {
+    text-decoration: none;
+    color: #fff;
+}
+.arroz-carne-huevo:hover {
+    background: rgba(120, 2, 11, 0.726);
+}
+
+.garbanzo a > img {
+    height: 150px;
+    width: 150px;
+    border-radius: 30%;
+    padding: 10px;
+}
+
+.garbanzo {
+    height: 250px;
+    width: 200px;
+   background: rgba(173, 2, 11, 0.726);
+   text-align: center;
+   position: relative;
+   left: 30%;
+   bottom: 600px;
+   border-radius: 20%;
+   color: #fff;
+   font-size: 27px;
+   letter-spacing: 2px;
+}
+.garbanzo a {
+    text-decoration: none;
+    color: #fff;
+}
+.garbanzo:hover {
+    background: rgba(120, 2, 11, 0.726);
+}
+
+.ranchero a > img {
+    height: 150px;
+    width: 150px;
+    border-radius: 30%;
+    padding: 10px;
+}
+
+.ranchero {
+    height: 250px;
+    width: 200px;
+   background: rgba(173, 2, 11, 0.726);
+   text-align: center;
+   position: relative;
+   left: 55%;
+   bottom: 850px;
+   border-radius: 20%;
+   color: #fff;
+   font-size: 27px;
+   letter-spacing: 2px;
+}
+.ranchero a {
+    text-decoration: none;
+    color: #fff;
+}
+.ranchero:hover {
+    background: rgba(120, 2, 11, 0.726);
+}
+
+.hawaiano a > img {
+    height: 150px;
+    width: 150px;
+    border-radius: 30%;
+    padding: 10px;
+}
+
+.hawaiano {
+    height: 250px;
+    width: 200px;
+   background: rgba(173, 2, 11, 0.726);
+   text-align: center;
+   position: relative;
+   left: 80%;
+   bottom: 1100px;
+   border-radius: 20%;
+   color: #fff;
+   font-size: 27px;
+   letter-spacing: 2px;
+}
+.hawaiano a {
+    text-decoration: none;
+    color: #fff;
+}
+.hawaiano:hover {
+    background: rgba(120, 2, 11, 0.726);
+}
+
+
+#h2-arepas {
+    width: 30%;
+    height: 45px;
+    background: transparent;
+    text-align: center;
+    position: relative;
+    bottom: 980px;
+    left: 35%;  
+    letter-spacing: 2.5px;
+    font-size: 45px;
+    margin-top: 0;
+    margin-bottom: 10px;
+    padding-top: 25px;
+    color: #fff;
+}
+.arp-carne a > img {
+    height: 150px;
+    width: 150px;
+    border-radius: 30%;
+    padding: 10px;
+}
+
+.arp-carne {
+    height: 250px;
+    width: 200px;
+   background: rgba(173, 2, 11, 0.726);
+   text-align: center;
+   font-size: 27px;
+   position: relative;
+   left: 5%;
+   bottom: 930px;
+   border-radius: 20%;
+}
+.arp-carne a {
+    text-decoration: none;
+    color: #fff;
+}
+.arp-carne:hover {
+    background: rgba(120, 2, 11, 0.726);
+}
+
+.arp-pollo a > img {
+    height: 150px;
+    width: 150px;
+    border-radius: 30%;
+    padding: 10px;
+}
+
+.arp-pollo {
+    height: 250px;
+    width: 200px;
+   background: rgba(173, 2, 11, 0.726);
+   text-align: center;
+   font-size: 27px;
+   position: relative;
+   left: 30%;
+   bottom: 1180px;
+   border-radius: 20%;
+}
+.arp-pollo a {
+    text-decoration: none;
+    color: #fff;
+}
+.arp-pollo:hover {
+    background: rgba(120, 2, 11, 0.726);
+}
+
+.arp-queso a > img {
+    height: 150px;
+    width: 150px;
+    border-radius: 30%;
+    padding: 10px;
+}
+
+.arp-queso {
+    height: 250px;
+    width: 200px;
+   background: rgba(173, 2, 11, 0.726);
+   text-align: center;
+   font-size: 27px;
+   position: relative;
+   left: 55%;
+   bottom: 1430px;
+   border-radius: 20%;
+}
+.arp-queso a {
+    text-decoration: none;
+    color: #fff;
+}
+.arp-queso:hover {
+    background: rgba(120, 2, 11, 0.726);
+}
+
+.arp-jyq a > img {
+    height: 150px;
+    width: 150px;
+    border-radius: 30%;
+    padding: 10px;
+}
+
+.arp-jyq {
+    height: 250px;
+    width: 200px;
+   background: rgba(173, 2, 11, 0.726);
+   text-align: center;
+   font-size: 27px;
+   position: relative;
+   left: 80%;
+   bottom: 1680px;
+   border-radius: 20%;
+}
+.arp-jyq a {
+    text-decoration: none;
+    color: #fff;
+}
+.arp-jyq:hover {
+    background: rgba(120, 2, 11, 0.726);
+}
+
+#h2-bebidas {
+    width: 30%;
+    height: 45px;
+    background: transparent;
+    text-align: center;
+    position: relative;
+    bottom: 1640px;
+    left: 35%;  
+    letter-spacing: 2.5px;
+    font-size: 45px;
+    margin-top: 0;
+    margin-bottom: 10px;
+    padding-top: 25px;
+    color: #fff;
+}
+
+.avena a > img {
+    height: 150px;
+    width: 150px;
+    border-radius: 30%;
+    padding: 10px;
+}
+
+.avena {
+    height: 250px;
+    width: 200px;
+   background: rgba(173, 2, 11, 0.726);
+   text-align: center;
+   position: relative;
+   left: 5%;
+   bottom: 1635px;
+   border-radius: 20%;
+   font-size: 27px;
+}
+.avena a {
+    text-decoration: none;
+    color: #fff;
+}
+.avena:hover {
+    background: rgba(120, 2, 11, 0.726);
+}
+
+.limonada a > img {
+    height: 150px;
+    width: 150px;
+    border-radius: 30%;
+    padding: 10px;
+}
+
+.limonada {
+    height: 250px;
+    width: 200px;
+   background: rgba(173, 2, 11, 0.726);
+   text-align: center;
+   position: relative;
+   left: 30%;
+   bottom: 1885px;
+   border-radius: 20%;
+    font-size: 27px;
+}
+.limonada a {
+    text-decoration: none;
+    color: #fff;
+   
+}
+.limonada:hover {
+    background: rgba(120, 2, 11, 0.726);
+}
+
+.masato a > img {
+    height: 150px;
+    width: 150px;
+    border-radius: 30%;
+    padding: 10px;
+}
+
+.masato {
+    height: 250px;
+    width: 200px;
+   background: rgba(173, 2, 11, 0.726);
+   text-align: center;
+   position: relative;
+   left: 55%;
+   bottom: 2135px;
+   border-radius: 20%;
+   font-size: 27px;
+}
+.masato a {
+    text-decoration: none;
+    color: #fff;
+}
+.masato:hover {
+    background: rgba(120, 2, 11, 0.726);
+}
+
+.hit-500 a > img {
+    height: 150px;
+    width: 150px;
+    border-radius: 30%;
+    padding: 10px;
+}
+
+.hit-500 {
+    height: 250px;
+    width: 200px;
+   background: rgba(173, 2, 11, 0.726);
+   text-align: center;
+   position: relative;
+   left: 80%;
+   bottom: 2385px;
+   border-radius: 20%;
+   font-size: 27px;
+}
+.hit-500 a {
+    text-decoration: none;
+    color: #fff;
+}
+.hit-500:hover {
+    background: rgba(120, 2, 11, 0.726);
+}
+
+.coca-400 a > img {
+    height: 150px;
+    width: 150px;
+    border-radius: 30%;
+    padding: 10px;
+}
+
+.coca-400 {
+    height: 250px;
+    width: 200px;
+   background: rgba(173, 2, 11, 0.726);
+   text-align: center;
+   position: relative;
+   left: 5%;
+   bottom: 2340px;
+   border-radius: 20%;
+   font-size: 27px;
+}
+.coca-400 a {
+    text-decoration: none;
+    color: #fff;
+}
+.coca-400:hover {
+    background: rgba(120, 2, 11, 0.726);
+}
+
+.coca-15l a > img {
+    height: 150px;
+    width: 150px;
+    border-radius: 30%;
+    padding: 10px;
+}
+
+.coca-15l {
+    height: 250px;
+    width: 200px;
+   background: rgba(173, 2, 11, 0.726);
+   text-align: center;
+   position: relative;
+   left: 30%;
+   bottom: 2590px;
+   border-radius: 20%;
+   font-size: 27px;
+}
+.coca-15l a {
+    text-decoration: none;
+    color: #fff;
+}
+.coca-15l:hover {
+    background: rgba(120, 2, 11, 0.726);
+}
+
+.hit-1l a > img {
+    height: 150px;
+    width: 150px;
+    border-radius: 30%;
+    padding: 10px;
+}
+
+.hit-1l {
+    height: 250px;
+    width: 200px;
+   background: rgba(173, 2, 11, 0.726);
+   text-align: center;
+   position: relative;
+   left: 55%;
+   bottom: 2840px;
+   border-radius: 20%;
+   font-size: 27px;
+}
+.hit-1l a {
+    text-decoration: none;
+    color: #fff;
+}
+.hit-1l:hover {
+    background: rgba(120, 2, 11, 0.726);
+}
+
+
+#ubicacion {
+    margin: 25px;
+    height: 310px;
+    width: 100%;
+    background: transparent;  
+}
+
+.tiendas {
+    text-align: center;
+    font-family: 'Satisfy', cursive;
+    font-size: 60px;
+    margin: 20px;
+    margin-bottom: 40px;
+}
+.tiendas b {
+    font-family: 'Satisfy', cursive;
+    font-size: 60px;
+    color: rgba(173, 2, 11, 0.726);
+}
+.ceiba {
+    text-align: center;
+    border-radius: 100%;
+    background: rgba(209, 209, 17, 0.89);
+    height: 250px;
+    width: 265px;
+    margin: 30px;
+    position: relative;
+    left: 60px;
+}
+
+.ceiba b {
+    position: relative;
+    top: 75px;
+    font-size: 25px;
+    color: rgba(209, 27, 36, 0.767);
+}
+
+.ceiba:hover {
+    background: rgba(238, 238, 7, 0.89);
+}
+
+
+.ufps {
+    text-align: center;
+    border-radius: 100%;
+    background: rgba(209, 209, 17, 0.89);
+    height: 250px;
+    width: 265px;
+    margin: 30px;
+    position: relative;
+    left: 470px;
+    bottom: 300px;
+    
+}
+
+.ufps b {
+    position: relative;
+    top: 75px;
+    font-size: 25px;
+    color: rgba(209, 27, 36, 0.767);
+}
+
+.ufps:hover {
+    background: rgba(238, 238, 7, 0.89);
+}
+
+.chinacota {
+    text-align: center;
+    border-radius: 100%;
+    background: rgba(209, 209, 17, 0.89);
+    height: 250px;
+    width: 265px;
+    margin: 30px;
+    position: relative;
+    left: 855px;
+    bottom: 550px;
+    
+}
+
+.chinacota b {
+    position: relative;
+    top: 75px;
+    font-size: 25px;
+    color: rgba(209, 27, 36, 0.767);
+}
+
+.chinacota:hover {
+    background: rgba(238, 238, 7, 0.89);
+}
+
+#seccion-4 {
+    background: transparent;
+    text-align: center;
+    margin-top: 110px;
+    width: 100%;
+    height: 350px;
+    background: rgba(173, 2, 11, 0.726);
+}
+
+.face-insta {
+    height: 25px;
+    width: 20px;
+}
+.titulo-contactanos {
+    text-align: center;
+    font-family: 'Satisfy', cursive;
+    font-size: 60px;
+    color: #fff;
+    margin: 20px;
+    margin-bottom: 40px;
+    margin-bottom: 5px;
+}
+.numeros {
+    font-size: 25px;
+    padding-top: 0px;
+    text-decoration: none;
+    color: #fff;
+    margin: 10px;
+}
+#seccion-4 > h3 {
+    text-align: center;
+    font-family: 'Satisfy', cursive;
+    font-size: 35px;
+    color: #fff;
+    margin: 15px;
+}
+
+#seccion-5 {
+    background: rgb(218, 213, 213);
+    text-align: center;
+    padding: 20px;
+}
+.desarrollado {
+    font-size: 25px;
+    margin-top: 20px;
+}
+
+
+
+
+
+@media only screen and (max-width: 600px) {
+
+    header {
+        height: 100%;
+    }
+    
+    .nav__responsive-ul {
+        display: none;
+    }
+    
+    .nav {
+        background-color: rgba(173, 2, 11, 0.726);
+    }
+    
+    .nav__li {
+        display: inline-block;
+        padding: 12px;
+        color: #fff;
+        
+    }
+    
+    .nav__li:hover > a {
+        
+        color:  #ccc
+    }
+    
+    .nav__li:hover {
+        
+        color:  #ccc
+    }
+    
+    .nav__li a {
+        color: #fff;
+        text-decoration: none;
+        font-size: 12px;
+        letter-spacing: 1px;
+    }
+    
+    .nav__li i {
+      
+        box-sizing: border-box;
+        text-align: right;
+        margin-right: 5px;
+    }
+    
+    .nav__responsive-button-container {
+        position: absolute;
+        width: 100%;
+        font-size: 25px;
+        background-color: rgba(82, 3, 7, 0.884);
+        margin-top: -64px;
+        z-index: 100;
+    
+    }
+    .nav__responsive-button {
+        padding: 6px 20px;
+        text-align: right;
+        width: 100%;
+    }
+    
+    .nav__ul {
+        margin: 0;
+    }
+
+
+
+    .contenedor {
+        background-image: url(../Proyecto_1/imgdp/pastelyuca.cebolla.jpg);
+        background-size: 650px;
+        height: 400px;
+        width: 100%;
+        display: inline-block;
+        position: relative;
+        left: 0;
+    }
+    
+    .titulo {
+        background: transparent;
+        height: 100px;
+        width: 250px;
+        text-align: left;
+        position: relative;
+        left: 10%;
+        top: 35px;
+    }
+    
+    h1 {
+        font-family: 'Dancing Script', cursive;
+        font-size: 25px;
+        margin: 0px;
+    }
+    
+    .dp {
+        font-size: 35px;
+        font-family: 'Dancing Script', cursive;
+    }
+    
+    .frase {
+        font-size: 15px;
+        margin: 5px;
+    }
+    .amor {
+        font-family: 'Dancing Script', cursive;
+        font-size: 15px;
+    }
+
+    .h2-menu {
+        width: 100%;
+        height: 45px;
+        background: transparent;
+        text-align: center;
+        position: relative;
+        top: 5px;
+        font-family: 'Satisfy', cursive;
+        font-size: 25px;
+        margin: 3px; 
+        color: #fff;
+    }
+    
+    .h2-pab {
+        display: none;
+    }
+
+    .yuca a > img {
+        height: 80px;
+        width: 80px;
+        border-radius: 30%;
+        padding: 5px;
+    }
+    
+    .yuca {
+        height: 150px;
+        width: 120px;
+       background: rgba(173, 2, 11, 0.726);
+       text-align: center;
+       position: relative;
+       left: 13%;
+       top: 75px;
+       border-radius: 20%;
+       color: #fff;
+       font-size: 20px;
+       letter-spacing: 2px;
+    }
+
+    .pollo a > img {
+        height: 80px;
+        width: 80px;
+        border-radius: 30%;
+        padding: 5px;
+    }
+    
+    .pollo {
+        height: 150px;
+        width: 120px;
+       background: rgba(173, 2, 11, 0.726);
+       text-align: center;
+       position: relative;
+       left: 60%;
+       bottom: 75px;
+       border-radius: 20%;
+       color: #fff;
+       font-size: 20px;
+       letter-spacing: 2px;
+    }
+
+    .arroz-carne a > img {
+        height: 80px;
+        width: 80px;
+        border-radius: 30%;
+        padding: 5px;
+    }
+    
+    .arroz-carne {
+        height: 150px;
+        width: 120px;
+       background:rgba(173, 2, 11, 0.726);
+       text-align: center;
+       position: relative;
+       left: 13%;
+       bottom: 65px;
+       border-radius: 20%;
+       color: #fff;
+       font-size: 20px;
+       letter-spacing: 2px;
+    }
+
+    .arroz-carne-huevo a > img {
+        height: 80px;
+        width: 80px;
+        border-radius: 30%;
+        padding: 5px;
+    }
+    
+    .arroz-carne-huevo {
+        height: 150px;
+        width: 120px;
+       background: rgba(173, 2, 11, 0.726);
+       text-align: center;
+       position: relative;
+       left: 60%;
+       bottom: 215px;
+       border-radius: 20%;
+       color: #fff;
+       font-size: 17px;
+       letter-spacing: 2px;
+    }
+
+    .garbanzo a > img {
+        height: 80px;
+        width: 80px;
+        border-radius: 30%;
+        padding: 5px;
+    }
+    
+    .garbanzo {
+        height: 150px;
+        width: 120px;
+       background: rgba(173, 2, 11, 0.726);
+       text-align: center;
+       position: relative;
+       left: 13%;
+       bottom: 200px;
+       border-radius: 20%;
+       color: #fff;
+       font-size: 20px;
+       letter-spacing: 2px;
+    }
+    
+    .ranchero a > img {
+        height: 80px;
+        width: 80px;
+        border-radius: 30%;
+        padding: 5px;
+    }
+    
+    .ranchero {
+        height: 150px;
+        width: 120px;
+       background: rgba(173, 2, 11, 0.726);
+       text-align: center;
+       position: relative;
+       left: 60%;
+       bottom: 350px;
+       border-radius: 20%;
+       color: #fff;
+       font-size: 20px;
+       letter-spacing: 2px;
+    }
+    
+    .hawaiano a > img {
+        height: 80px;
+        width: 80px;
+        border-radius: 30%;
+        padding: 5px;
+    }
+    
+    .hawaiano {
+        height: 150px;
+        width: 120px;
+       background: rgba(173, 2, 11, 0.726);
+       text-align: center;
+       position: relative;
+       left: 35%;
+       bottom: 335px;
+       border-radius: 20%;
+       color: #fff;
+       font-size: 20px;
+       letter-spacing: 2px;
+    }
+    
+    #h2-arepas {
+        width: 30%;
+        height: 45px;
+        background: transparent;
+        text-align: center;
+        position: relative;
+        bottom: 300px;
+        left: 35%;  
+        letter-spacing: 2.5px;
+        font-size: 45px;
+        margin-top: 0;
+        margin-bottom: 10px;
+        padding-top: 25px;
+        color: #fff;
+    }
+    .arp-carne a > img {
+        height: 80px;
+        width: 80px;
+        border-radius: 30%;
+        padding: 5px;
+    }
+    
+    .arp-carne {
+        height: 150px;
+        width: 120px;
+       background: rgba(173, 2, 11, 0.726);
+       text-align: center;
+       font-size: 20px;
+       position: relative;
+       left: 13%;
+       bottom: 280px;
+       border-radius: 20%;
+    }
+    
+    
+    .arp-pollo a > img {
+        height: 80px;
+        width: 80px;
+        border-radius: 30%;
+        padding: 5px;
+    }
+    
+    .arp-pollo {
+        height: 150px;
+        width: 120px;
+       background: rgba(173, 2, 11, 0.726);
+       text-align: center;
+       font-size: 20px;
+       position: relative;
+       left: 60%;
+       bottom: 430px;
+       border-radius: 20%;
+    }
+    
+    
+    .arp-queso a > img {
+        height: 80px;
+        width: 80px;
+        border-radius: 30%;
+        padding: 5px;
+    }
+    
+    .arp-queso {
+        height: 150px;
+        width: 120px;
+       background: rgba(173, 2, 11, 0.726);
+       text-align: center;
+       font-size: 20px;
+       position: relative;
+       left: 13%;
+       bottom: 410px;
+       border-radius: 20%;
+    }
+   
+    
+    .arp-jyq a > img {
+        height: 80px;
+        width: 80px;
+        border-radius: 30%;
+        padding: 5px;
+    }
+    
+    .arp-jyq {
+        height: 150px;
+        width: 120px;
+       background: rgba(173, 2, 11, 0.726);
+       text-align: center;
+       font-size: 20px;
+       position: relative;
+       left: 60%;
+       bottom: 560px;
+       border-radius: 20%;
+    }
+
+    #h2-bebidas {
+        width: 30%;
+        height: 45px;
+        background: transparent;
+        text-align: center;
+        position: relative;
+        bottom: 540px;
+        left: 35%;  
+        letter-spacing: 2.5px;
+        font-size: 45px;
+        margin-top: 0;
+        margin-bottom: 10px;
+        padding-top: 25px;
+        color: #fff;
+    }
+    
+    .avena a > img {
+        height: 80px;
+        width: 80px;
+        border-radius: 30%;
+        padding: 5px;
+    }
+    
+    .avena {
+        height: 150px;
+        width: 120px;
+       background: rgba(173, 2, 11, 0.726);
+       text-align: center;
+       position: relative;
+       left: 13%;
+       bottom: 515px;
+       border-radius: 20%;
+       font-size: 20px;
+    }
+    
+    .limonada a > img {
+        height: 80px;
+        width: 80px;
+        border-radius: 30%;
+        padding: 5px;
+    }
+    
+    .limonada {
+        height: 150px;
+        width: 120px;
+       background: rgba(173, 2, 11, 0.726);
+       text-align: center;
+       position: relative;
+       left: 60%;
+       bottom: 665px;
+       border-radius: 20%;
+        font-size: 20px;
+    }
+    
+    .masato a > img {
+        height: 80px;
+        width: 80px;
+        border-radius: 30%;
+        padding: 5px;
+    }
+    
+    .masato {
+        height: 150px;
+        width: 120px;
+       background: rgba(173, 2, 11, 0.726);
+       text-align: center;
+       position: relative;
+       left: 13%;
+       bottom: 650px;
+       border-radius: 20%;
+       font-size: 20px;
+    }
+    
+    
+    .hit-500 a > img {
+        height: 80px;
+        width: 80px;
+        border-radius: 30%;
+        padding: 5px;
+    }
+    
+    .hit-500 {
+        height: 150px;
+        width: 120px;
+       background: rgba(173, 2, 11, 0.726);
+       text-align: center;
+       position: relative;
+       left: 60%;
+       bottom: 800px;
+       border-radius: 20%;
+       font-size: 20px;
+    }
+    
+    
+    .coca-400 a > img {
+        height: 80px;
+        width: 80px;
+        border-radius: 30%;
+        padding: 5px;
+    }
+    
+    .coca-400 {
+        height: 150px;
+        width: 120px;
+       background: rgba(173, 2, 11, 0.726);
+       text-align: center;
+       position: relative;
+       left: 13%;
+       bottom: 785px;
+       border-radius: 20%;
+       font-size: 20px;
+    }
+    
+    .coca-15l a > img {
+        height: 80px;
+        width: 80px;
+        border-radius: 30%;
+        padding: 10px;
+    }
+    
+    .coca-15l {
+        height: 150px;
+        width: 120px;
+       background: rgba(173, 2, 11, 0.726);
+       text-align: center;
+       position: relative;
+       left: 60%;
+       bottom: 935px;
+       border-radius: 20%;
+       font-size: 20px;
+    }
+    
+    
+    .hit-1l a > img {
+        height: 80px;
+        width: 80px;
+        border-radius: 30%;
+        padding: 5px;
+    }
+    
+    .hit-1l {
+        height: 150px;
+        width: 120px;
+       background: rgba(173, 2, 11, 0.726);
+       text-align: center;
+       position: relative;
+       left: 35%;
+       bottom: 920px;
+       border-radius: 20%;
+       font-size: 20px;
+    }
+
+    #ubicacion {
+        height: 550px;
+        background-image: url(../Proyecto_1/imgdp/celular.jpg);
+        background-size: 550px;
+        background-attachment: fixed;
+        margin: 0;
+    }
+    
+    .tiendas {
+        text-align: center;
+        font-family: 'Satisfy', cursive;
+        font-size: 20px;
+        margin: 0px;
+        
+    }
+    .tiendas b {
+        font-family: 'Satisfy', cursive;
+        font-size: 35px;
+        color: #fff
+    }
+    .ceiba {
+        text-align: center;
+        border-radius: 100%;
+        background: rgba(209, 209, 17, 0.89);
+        height: 150px;
+        width: 165px;
+        margin: 5px;
+        position: relative;
+        left: 25%;
+    }
+    
+        .ceiba b {
+        position: relative;
+        top: 25px;
+        font-size: 20px;
+        color: rgba(209, 27, 36, 0.767);
+    }
+    
+        .ceiba:hover {
+        background: rgba(238, 238, 7, 0.89);
+    }
+    
+    
+        .ufps {
+        text-align: center;
+        border-radius: 100%;
+        background: rgba(209, 209, 17, 0.89);
+        height: 150px;
+        width: 165px;
+        margin: 5px;
+        position: relative;
+        left: 25%;
+        bottom: 0px;
+        
+    }
+    
+        .ufps b {
+        position: relative;
+        top: 25px;
+        font-size: 20px;
+        color: rgba(209, 27, 36, 0.767);
+    }
+    
+        .ufps:hover {
+        background: rgba(238, 238, 7, 0.89);
+    }
+    
+        .chinacota {
+        text-align: center;
+        border-radius: 100%;
+        background: rgba(209, 209, 17, 0.89);
+        height: 150px;
+        width: 165px;
+        margin: 5px;
+        position: relative;
+        left: 25%;
+        bottom:0px;
+        
+    }
+    
+        .chinacota b {
+        position: relative;
+        top: 25px;
+        font-size: 20px;
+        color: rgba(209, 27, 36, 0.767);
+    }
+    
+        .chinacota:hover {
+        background: rgba(238, 238, 7, 0.89);
+    }
+  
+    #seccion-4 {
+        margin: 0;
+        height: 280px;
+    }
+    .titulo-contactanos {
+        margin: 0;
+        font-size: 35px;
+    }
+    .numeros {
+        font-size: 15px;
+    }
+    #seccion-4 h3 {
+        font-size: 20px;
+    }
+    #seccion-5 {
+        padding: 10px;
+    }
+    .desarrollado {
+        font-size: 10px;
+        margin: 0;
+    }
+    #seccion-5 p {
+        font-size: 8px;
+        margin: 2px;
+    }
+    .btn-wsp {
+        position: fixed;
+        width: 55px;
+        height: 55px;
+        line-height: 55px;
+        bottom: 20px;
+        right: 25px;
+        text-align: center;
+    }
+    .btn-wsp img {
+        height: 40px;
+        width: 40px;
+    }
+    
+    .btn-wsp1 img {
+        height: 50px;
+        width: 50px;
+    }
+}
+
+
+@media only screen and (min-width: 600px) and (max-width:1065px) {
+
+    .titulo {
+        background: transparent;
+        height: 100px;
+        width: 350px;
+        text-align: left;
+        position: relative;
+        left: 10%;
+        top: 35px;
+    }
+    
+    h1 {
+        font-family: 'Dancing Script', cursive;
+        font-size: 45px;
+        margin: 0px;
+    }
+    
+    .dp {
+        font-size: 65px;
+        font-family: 'Dancing Script', cursive;
+    }
+    
+    .frase {
+        font-size: 25px;
+        margin: 5px;
+    }
+    .amor {
+        font-family: 'Dancing Script', cursive;
+        font-size: 25px;
+    }
+
+    .h2-pab {
+        text-align: center;
+        width: 100%;
+    }
+
+    .yuca a > img {
+        height: 130px;
+        width: 130px;
+        border-radius: 30%;
+        padding: 5px;
+    }
+
+    .yuca {
+        height: 205px;
+        width: 165px;
+       background: rgba(173, 2, 11, 0.726);
+       text-align: center;
+       position: relative;
+       left: 13%;
+       top: 75px;
+       border-radius: 20%;
+       color: #fff;
+       font-size: 24px;
+       letter-spacing: 2px;
+    }
+
+    .pollo a > img {
+        height: 130px;
+        width: 130px;
+        border-radius: 30%;
+        padding: 5px;
+    }
+    
+    .pollo {
+        height: 205px;
+        width: 165px;
+       background: rgba(173, 2, 11, 0.726);
+       text-align: center;
+       position: relative;
+       left: 45%;
+       bottom: 130px;
+       border-radius: 20%;
+       color: #fff;
+       font-size: 24px;
+       letter-spacing: 2px;
+    }
+
+    .arroz-carne a > img {
+        height: 130px;
+        width: 130px;
+        border-radius: 30%;
+        padding: 5px;
+    }
+    
+    .arroz-carne {
+        height: 205px;
+        width: 165px;
+       background:rgba(173, 2, 11, 0.726);
+       text-align: center;
+       position: relative;
+       left: 75%;
+       bottom: 335px;
+       border-radius: 20%;
+       color: #fff;
+       font-size: 24px;
+       letter-spacing: 2px;
+    }
+
+    .arroz-carne-huevo a > img {
+        height: 130px;
+        width: 130px;
+        border-radius: 30%;
+        padding: 5px;
+    }
+    
+    .arroz-carne-huevo {
+        height: 205px;
+        width: 180px;
+       background: rgba(173, 2, 11, 0.726);
+       text-align: center;
+       position: relative;
+       left: 5%;
+       bottom: 315px;
+       border-radius: 20%;
+       color: #fff;
+       font-size: 21px;
+       letter-spacing: 2px;
+    }
+
+    .garbanzo a > img {
+        height: 130px;
+        width: 130px;
+        border-radius: 30%;
+        padding: 5px;
+    }
+    
+    .garbanzo {
+        height: 205px;
+        width: 165px;
+       background: rgba(173, 2, 11, 0.726);
+       text-align: center;
+       position: relative;
+       left: 30%;
+       bottom: 520px;
+       border-radius: 20%;
+       color: #fff;
+       font-size: 24px;
+       letter-spacing: 2px;
+    }
+    
+    .ranchero a > img {
+        height: 130px;
+        width: 130px;
+        border-radius: 30%;
+        padding: 5px;
+    }
+    
+    .ranchero {
+        height: 205px;
+        width: 165px;
+       background: rgba(173, 2, 11, 0.726);
+       text-align: center;
+       position: relative;
+       left: 55%;
+       bottom: 725px;
+       border-radius: 20%;
+       color: #fff;
+       font-size: 24px;
+       letter-spacing: 2px;
+    }
+    
+    .hawaiano a > img {
+        height: 130px;
+        width: 130px;
+        border-radius: 30%;
+        padding: 5px;
+    }
+    
+    .hawaiano {
+        height: 205px;
+        width: 165px;
+       background: rgba(173, 2, 11, 0.726);
+       text-align: center;
+       position: relative;
+       left: 80%;
+       bottom: 930px;
+       border-radius: 20%;
+       color: #fff;
+       font-size: 24px;
+       letter-spacing: 2px;
+    }
+    
+    #h2-arepas {
+        width: 30%;
+        height: 45px;
+        background: transparent;
+        text-align: center;
+        position: relative;
+        bottom: 900px;
+        left: 35%;  
+        letter-spacing: 2.5px;
+        font-size: 45px;
+        margin-top: 0;
+        margin-bottom: 10px;
+        padding-top: 25px;
+        color: #fff;
+    }
+    .arp-carne a > img {
+        height: 130px;
+        width: 130px;
+        border-radius: 30%;
+        padding: 5px;
+    }
+    
+    .arp-carne {
+        height: 205px;
+        width: 165px;
+       background: rgba(173, 2, 11, 0.726);
+       text-align: center;
+       font-size: 24px;
+       position: relative;
+       left: 5%;
+       bottom: 885px;
+       border-radius: 20%;
+    }
+    
+    
+    .arp-pollo a > img {
+        height: 130px;
+        width: 130px;
+        border-radius: 30%;
+        padding: 5px;
+    }
+    
+    .arp-pollo {
+        height: 205px;
+        width: 165px;
+       background: rgba(173, 2, 11, 0.726);
+       text-align: center;
+       font-size: 24px;
+       position: relative;
+       left: 30%;
+       bottom: 1090px;
+       border-radius: 20%;
+    }
+    
+    
+    .arp-queso a > img {
+        height: 130px;
+        width: 130px;
+        border-radius: 30%;
+        padding: 5px;
+    }
+    
+    .arp-queso {
+        height: 205px;
+        width: 165px;
+       background: rgba(173, 2, 11, 0.726);
+       text-align: center;
+       font-size: 24px;
+       position: relative;
+       left: 55%;
+       bottom: 1295px;
+       border-radius: 20%;
+    }
+   
+    
+    .arp-jyq a > img {
+        height: 130px;
+        width: 130px;
+        border-radius: 30%;
+        padding: 5px;
+    }
+
+    .arp-jyq {
+        height: 205px;
+        width: 165px;
+       background: rgba(173, 2, 11, 0.726);
+       text-align: center;
+       font-size: 24px;
+       position: relative;
+       left: 80%;
+       bottom: 1500px;
+       border-radius: 20%;
+    }
+
+     #h2-bebidas {
+        width: 30%;
+        height: 45px;
+        background: transparent;
+        text-align: center;
+        position: relative;
+        bottom: 1460px;
+        left: 35%;  
+        letter-spacing: 2.5px;
+        font-size: 45px;
+        margin-top: 0;
+        margin-bottom: 10px;
+        padding-top: 25px;
+        color: #fff;
+    }
+    
+    .avena a > img {
+        height: 130px;
+        width: 130px;
+        border-radius: 30%;
+        padding: 5px;
+    }
+    
+    .avena {
+        height: 205px;
+        width: 165px;
+       background: rgba(173, 2, 11, 0.726);
+       text-align: center;
+       position: relative;
+       left: 5%;
+       bottom: 1415px;
+       border-radius: 20%;
+       font-size: 24px;
+    }
+    
+    .limonada a > img {
+        height: 130px;
+        width: 130px;
+        border-radius: 30%;
+        padding: 5px;
+    }
+    
+    .limonada {
+        height: 205px;
+        width: 165px;
+       background: rgba(173, 2, 11, 0.726);
+       text-align: center;
+       position: relative;
+       left: 30%;
+       bottom: 1620px;
+       border-radius: 20%;
+        font-size: 20px;
+    }
+    
+    .masato a > img {
+        height: 130px;
+        width: 130px;
+        border-radius: 30%;
+        padding: 5px;
+    }
+    
+    .masato {
+        height: 205px;
+        width: 165px;
+       background: rgba(173, 2, 11, 0.726);
+       text-align: center;
+       position: relative;
+       left: 55%;
+       bottom: 1825px;
+       border-radius: 20%;
+       font-size: 24px;
+    }
+    
+    
+    .hit-500 a > img {
+        height: 130px;
+        width: 130px;
+        border-radius: 30%;
+        padding: 5px;
+    }
+    
+    .hit-500 {
+        height: 205px;
+        width: 165px;
+       background: rgba(173, 2, 11, 0.726);
+       text-align: center;
+       position: relative;
+       left: 80%;
+       bottom: 2030px;
+       border-radius: 20%;
+       font-size: 24px;
+    }
+    
+    
+    .coca-400 a > img {
+        height: 130px;
+        width: 130px;
+        border-radius: 30%;
+        padding: 5px;
+    }
+    
+    .coca-400 {
+        height: 205px;
+        width: 165px;
+       background: rgba(173, 2, 11, 0.726);
+       text-align: center;
+       position: relative;
+       left: 5%;
+       bottom: 1970px;
+       border-radius: 20%;
+       font-size: 24px;
+    }
+    
+    .coca-15l a > img {
+        height: 130px;
+        width: 130px;
+        border-radius: 30%;
+        padding: 5px;
+    }
+    
+    .coca-15l {
+        height: 205px;
+        width: 165px;
+       background: rgba(173, 2, 11, 0.726);
+       text-align: center;
+       position: relative;
+       left: 30%;
+       bottom: 2175px;
+       border-radius: 20%;
+       font-size: 24px;
+    }
+    
+    
+    .hit-1l a > img {
+        height: 130px;
+        width: 130px;
+        border-radius: 30%;
+        padding: 5px;
+    }
+    
+    .hit-1l {
+        height: 205px;
+        width: 165px;
+       background: rgba(173, 2, 11, 0.726);
+       text-align: center;
+       position: relative;
+       left: 55%;
+       bottom: 2380px;
+       border-radius: 20%;
+       font-size: 24px;
+    }
+
+    #seccion-2 {
+        height: 1800px;
+    }
+    
+    .ceiba {
+    text-align: center;
+    border-radius: 100%;
+    background: rgba(209, 209, 17, 0.89);
+    height: 150px;
+    width: 165px;
+    margin: 30px;
+    position: relative;
+    left: 10%;
+}
+
+    .ceiba b {
+    position: relative;
+    top: 25px;
+    font-size: 20px;
+    color: rgba(209, 27, 36, 0.767);
+}
+
+    .ceiba:hover {
+    background: rgba(238, 238, 7, 0.89);
+}
+
+
+    .ufps {
+    text-align: center;
+    border-radius: 100%;
+    background: rgba(209, 209, 17, 0.89);
+    height: 150px;
+    width: 165px;
+    margin: 30px;
+    position: relative;
+    left: 40%;
+    bottom: 180px;
+    
+}
+
+    .ufps b {
+    position: relative;
+    top: 25px;
+    font-size: 20px;
+    color: rgba(209, 27, 36, 0.767);
+}
+
+    .ufps:hover {
+    background: rgba(238, 238, 7, 0.89);
+}
+
+    .chinacota {
+    text-align: center;
+    border-radius: 100%;
+    background: rgba(209, 209, 17, 0.89);
+    height: 150px;
+    width: 165px;
+    margin: 30px;
+    position: relative;
+    left: 70%;
+    bottom: 360px;
+    
+}
+
+    .chinacota b {
+    position: relative;
+    top: 25px;
+    font-size: 20px;
+    color: rgba(209, 27, 36, 0.767);
+}
+
+    .chinacota:hover {
+    background: rgba(238, 238, 7, 0.89);
+}
+
+    #seccion-4 {
+        margin: 0;
+    }
+
+    #seccion-5 {
+        padding: 10px;
+    }
+    .desarrollado {
+        font-size: 15px;
+        margin: 0;
+    }
+    #seccion-5 p {
+        font-size: 12px;
+        margin: 2px;
+    }
+
+}
+
+
+
